@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(40, 40, 40);
+}
+.container{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+h1{
+    color:rgb(89, 203, 156);
+    font-size: 7rem;
+    font-family: Ojuju, sans-serif;
+    text-align: center; 
+    font-style: italic;
+    margin-top:10px;
+    text-shadow: 3px 3px 10px rgb(89, 203, 156);
+}
+.dice{
+    text-align: center;
+    display: inline-block;
+    margin: 30px;
+}
+p{
+    margin-top: 10px;
+    color:rgb(89, 203, 156);
+    font-size:2rem;
+    font-family: Ojuju, sans-serif;
+}
+footer{
+    text-align: center;
+    color:rgb(255, 255, 255);
+    font-style: italic;
+    margin-top: 30px;
+    font-size:15px;
+}
